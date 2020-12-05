@@ -5,5 +5,5 @@ zonebourse.com/services/solutions*
 zonebourse.com/mods_a/popup/pop_paywall.php?version=2424e
 zonebourse.com/images/pv/fr/popfr_blocage_illimite.png
 https://www.zonebourse.com/services/solutions/?utmzb_campaign=blocage+202006+blockmembernav+limite_atteinte+fr_fr&utmzb_content=all++popup_illimite+decouvrez_services+abonnement&utmzb_source=house&utmzb_medium=popup
-/mods_a/popup*
-/?utmzb_campaign=blocage*
+*/mods_a/popup*
+*/?utmzb_campaign=blocage*
